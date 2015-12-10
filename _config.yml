@@ -1,0 +1,28 @@
+name: Product
+favicon: null
+layout_spectrum: 0.5466567222028971
+typography_spectrum: 0.9528949826490134
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1443521990440786
+  lightness: 0.9393432214856148
+  saturation: 0.43661305285058916
+  rhythmicContrast: 0.24880303349345922
+purpose: []
