@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Product]]></title>
+        <description><![CDATA[Product]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Dec 2015 00:01:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lessons learned from scaling a product team - Inside Intercom]]></title>
+            <description><![CDATA[<article><h1>Lessons learned from scaling a product team - Inside Intercom</h1><p>There's been lots written about how Internet businesses should build software, from books like The Lean Start-Up, and posts from Google Ventures, but not many examples where startups open up their process and show how it really happens. Back in 2013, Spotify talked about how they build, but other detailed examples are hard to find.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33c198a2b2d83a658d2045786b4df773375b0440.png"></article>]]></description>
+            <link>https://blog.intercom.io/how-we-build-software/?utm_medium=email&amp;utm_source=drip&amp;utm_campaign=pm-book</link>
+            <guid isPermaLink="false">65a46c28-d4f8-43a4-be80-b86801cb502d</guid>
+            <pubDate>Fri, 11 Dec 2015 00:00:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
